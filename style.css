@@ -1,1 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
 
+.table {
+    width: 100%;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+.portfolio {
+    margin-top: 20px;
+}
+
+.portfolio a {
+    font-size: 20px;
+    color: blue;
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+.footer-link {
+    color: black;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
